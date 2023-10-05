@@ -1,0 +1,56 @@
+{
+    "navMenuOptions": [
+        {
+            "label": "Inicio",
+            "id": "main"
+        },
+        {
+            "label": "Sobre mi",
+            "id": "about"
+        },
+        {
+            "label": "Contacto",
+            "id": "contact"
+        }
+    ],
+    "colors": {
+        "primary": "#a55c58",
+        "secondary": "#232323",
+        "terciary": "#2d2d2d"
+    },
+    "font": "Campton",
+    "contentBlocks": [
+        {
+            "contentTitle": "PSIC RICARDO SÁNCHEZ",
+            "contentText": "Encuentra la ayuda que buscabas",
+            "key": "main",
+            "imgSrc": "https://uploads-ssl.webflow.com/6060e6c66acd5a7636de522c/64679aabcc3df87fbdebd163_SC-fondo-rojo.webp",
+            "background": {
+                "type": "gradient",
+                "data": "linear(to-r, #FBD1A2, #ECE4B7)"
+            }
+        },
+        {
+            "contentTitle": "El psicoterapeuta",
+            "contentText": "Con 5 años de experiencia como psicólogo y 3 años brindando consulta de psicoterapia, me especialice en el área clínica y posteriormente en el enfoque Terapia Breve Centrada en Soluciones. He intervenido en áreas laborales y deportivas, adquiriendo así una perspectiva amplia de personas en diversos ámbitos",
+            "key": "about",
+            "background": {
+                "type": "solid",
+                "data": "#FFFF"
+            }
+        },
+        {
+            "contentTitle": "La persona",
+            "contentText": "Mitad Regio/Jarocho, amo la playa, en el pasado practiqué varios deportes, hoy mis hobbies son leer, journaling y me gusta mucho salir los fines de semana en moto entre las montañas o desierto.",
+            "key": "about",
+            "background": {
+                "type": "solid",
+                "data": "linear(to-r, #FBD1A2, #ECE4B7)"
+            }
+        }
+    ],
+    "captions": {
+        "mainTitle": "Encuentra la ayuda que buscabas",
+        "callToAction": "Agenda ya"
+    }
+}

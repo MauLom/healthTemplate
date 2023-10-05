@@ -1,0 +1,33 @@
+.subTitle {
+    color: var(--gray-gray-700, #4A5568);
+    /* Paragraphs/default-lg */
+    font-family: Inter;
+    font-size: 1.125rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 2.25rem;
+    /* 200% */
+}
+
+.title {
+    color: var(--gray-gray-900, #1A202C);
+    /* Headings/Lite-h1 */
+    font-family: Inter;
+    font-size: 2.8125rem;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 4.4375rem;
+    /* 157.778% */
+}
+
+.callButton {
+    display: flex;
+    width: 10.9375rem;
+    padding: 1.1875rem 1.875rem;
+    justify-content: space-between;
+    align-items: center;
+
+    border-radius: 0.3125rem;
+    /* Btn-Shadow */
+    box-shadow: 0px 4px 49px 0px rgba(0, 0, 0, 0.15);
+}
